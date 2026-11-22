@@ -8,7 +8,7 @@ This project focuses on analyzing the **Students Performance in Exams** dataset 
 ### Dataset Information
 - **Dataset Name:** Students Performance in Exams
 - **Dataset Source:** [Kaggle – Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
-- **Number of Rows:** 1,001
+- **Number of Rows:** 1,007
 - **Number of Columns:** 8
 - **Categorical Features:** 5
 - **Numerical Features:** 3
